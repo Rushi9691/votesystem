@@ -21,8 +21,3 @@
 username  nurhodelta
 password  password
 
-Brought to you by: www.CampCodes.com
-
-votesystem
-
-https://www.youtube.com/watch?v=E9bRLp0bgm4
